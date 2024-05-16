@@ -1,1 +1,2 @@
-# AI-Practical-s
+# AI-Practicals
+Here I have given all AI practicals....which are coded withthe help of using Python Programming Language in Jupyter Notebook....
